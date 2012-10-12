@@ -1,3 +1,5 @@
-My Notes to see notes
-New Note to create note
-User Auth coming soon!
+Notepad
+======================
+* My Notes to see notes
+* New Note to create note
+* User Auth coming soon!
